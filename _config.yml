@@ -7,7 +7,7 @@ permalink:           /:title/
 title:               Harry Kalantzis
 tagline:             Learning Technologist
 url:                 http://harry.kalantzis.uk
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
