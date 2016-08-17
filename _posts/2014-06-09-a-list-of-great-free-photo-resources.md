@@ -9,6 +9,7 @@ categories:
 
 It's always tempting to find a really great photo that fits your (online) course. I merged some lists with great photo sources that I came across a while ago and I made a new one so that I can come back anytime I need it. You should bookmark it.
 
+* [AllTheFreeStock](http://allthefreestock.com)
 * [Ancestry Images](http://www.ancestryimages.com/)
 * [Bara Art](http://www.bara-art.com/)
 * [Barn Images](http://barnimages.com/)
@@ -40,6 +41,7 @@ It's always tempting to find a really great photo that fits your (online) course
 * [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
 * [JÉSHOOTS](http://jeshoots.com/)
+* [Just Good Photos](http://justgoodphotos.io)
 * [Life of Pix](http://www.lifeofpix.com/)
 * [Little Visuals](http://littlevisuals.co/)
 * [Magdeleine](http://magdeleine.co/browse/)
