@@ -25,7 +25,7 @@ I decided to implement Dreger’s idea into this journal. So, from now on, if yo
 
 Here is what code Dreger uses which I adopted as it is:
 
-```css
+```
 body {
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, sans-serif;
 }
