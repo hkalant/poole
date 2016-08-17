@@ -1,12 +1,12 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /:title/
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Harry Kalantzis
+tagline:             Learning Technologist
+url:                 http://harry.kalantzis.uk
 paginate:            1
 baseurl:             ""
 
@@ -19,9 +19,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Harry Kalantzis
+  url:               https://twitter.com/hkalant
+  email:             hkalant@gmail.com
 
 # Custom vars
 version:             2.0.0
