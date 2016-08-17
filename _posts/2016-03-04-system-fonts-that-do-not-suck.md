@@ -29,6 +29,6 @@ Here is what code Dreger uses which I adopted as it is:
 body {
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, sans-serif;
 }
-{% highlight js %}
+{% highlight css %}
 
 Fonts really make a difference.
