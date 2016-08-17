@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "A Comprehensive List of Tools for Teachers"
 date: 2014-08-22
 excerpt: "Tools of trade for virtual teachers."

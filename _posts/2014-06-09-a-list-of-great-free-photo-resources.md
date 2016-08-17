@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "A List Of Great Free Photo Resources"
 date: 2014-06-09
 excerpt: "An ongoing list with free stock photos."

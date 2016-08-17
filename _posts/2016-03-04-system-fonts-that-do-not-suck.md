@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "System Fonts That Do Not Suck"
 date: 2016-03-04
 excerpt: "Choosing fonts wisely."

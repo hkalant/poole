@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Revolutionizing Assessment"
 date: 2014-07-22
 excerpt: "A remarkably simple way to solve a major problem."
